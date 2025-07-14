@@ -39,6 +39,9 @@ EmpTrack/<br>
 ├── .gitattributes   # Git settings<br>
 └── README.md        # Project documentation<br>
 
+
+--- 
+
 ## 📦 Getting Started
 
 1. **Clone the Repository**
